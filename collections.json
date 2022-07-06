@@ -1,0 +1,20 @@
+[
+    {
+      "id": "c-01",
+      "title": "Staff Favorites",
+      "description": "Our staff favorites",
+      "isPublished": true
+    },
+    {
+      "id": "c-02",
+      "title": "Best Selling",
+      "description": "These are selling out fast!",
+      "isPublished": true
+    },
+    {
+      "id": "c-03",
+      "title": "In Season",
+      "description": "Discover what is in season",
+      "isPublished": true
+    }
+  ]

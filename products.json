@@ -1,0 +1,26 @@
+[
+    {
+      "id": "random-id-00",
+      "category": "apparel",
+      "name": "The Best T-Shirt",
+      "brand": "A&A",
+      "inventory": 32,
+      "price": {
+        "amount": 100,
+        "currency": "USD"
+      },
+      "collections": ["c-01"]
+    },
+    {
+      "id": "random-id-01",
+      "category": "stationery",
+      "name": "The Best Pencil Case",
+      "brand": "Pencils Forever",
+      "inventory": 5,
+      "price": {
+        "amount": 25,
+        "currency": "USD"
+      },
+      "collections": ["c-02", "c-03"]
+    }
+  ]
